@@ -11,6 +11,9 @@
 
 # Stats
 
+![Threonaum's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Threonaum&theme=tokyonight&hide_border=true)
+
+![Threonaum's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Threonaum&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 # Contact and SocialNetworks
 
