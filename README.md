@@ -14,9 +14,14 @@
 
 # Stats
 
-![Threonaum's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Threonaum&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=Threonaum&theme=tokyonight&hide_border=true" />
+</div>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Threonaum&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Threonaum&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+</div>
 
-![Threonaum's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Threonaum&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 # Contact and SocialNetworks
 
