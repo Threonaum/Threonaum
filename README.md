@@ -5,8 +5,8 @@
 - 1 year at Tyrolium
 - 1 year of training at Human Booster 
 - i participate to the App Gamenium Project
-- My languages 💻 : `HTML`, `CSS`, `JavaScript`, `Java`, `Php`, `SQL`
-- My frameworks 🧰 : `Angular`, `Symfony`, `Bootstrap`
+- My languages 💻 : `HTML`, `CSS`, `JavaScript`,`typecript`,`Java`, `Php`, `SQL`
+- My frameworks 🧰 : `Angular`, `Symfony`, `forge`
 
 
 # Stats
